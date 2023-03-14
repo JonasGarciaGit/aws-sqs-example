@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: sa-east-1
+      auto: false
+    credentials:
+      access-key: AKIARJ6PDT2BMSAU4VJL
+      secret-key: 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
+    end-point:
+      uri: https://sqs.sa-east-1.amazonaws.com/090091789954/sqs-jonas-queue

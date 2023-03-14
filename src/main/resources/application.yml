@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: sa-east-1
+      auto: false
+    credentials:
+      access-key: {ACCESS-KEY-AWS}
+      secret-key: {SECRET-KEY-AWS}
+    end-point:
+      uri: {URI-SQS}
